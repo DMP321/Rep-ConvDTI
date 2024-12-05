@@ -6,17 +6,29 @@ The drug-protein interaction prediction model
 
 ## Requirements env
 Bio——1.7.1
+
 biopython——1.84
+
 matplotlib——3.7.1
+
 numpy——2.1.3
+
 pandas——2.0.1
+
 prefetch_generator——1.0.3
+
 rdkit——2024.3.5
+
 scikit_learn——1.5.2
+
 tensorboardX——2.6.2.2
+
 tensorboardX——2.6.2.2
+
 torch——2.4.0+cu118
+
 tqdm——4.66.5
+
 xgboost——2.1.3
 
 ## Usage
