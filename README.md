@@ -2,6 +2,7 @@
 
 The drug-protein interaction prediction model, We were inspired by this [work](http://arxiv.org/abs/2311.15599).
 
+![Model network](https://github.com/DMP321/Rep_ConvDTI/blob/main/Figure1.jpg?raw=true)
 
 ## Requirements env
 Bio——1.7.1
