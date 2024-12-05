@@ -65,3 +65,4 @@ We provide a benchmark model that does not perform well in a single training set
  ```
  python predict.py --predict_target ./your/target.fasta --predict_ligands ./your/ligands.sdf --save_path ./save/path/
 ```
+-----Note that currently the program supports only **.FASTA** format amino acid sequence files and **.SDF** ligand files, other file formats are already under development
