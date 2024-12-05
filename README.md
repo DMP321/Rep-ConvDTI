@@ -51,7 +51,7 @@ First go to the folder.
 ``` 
   
  ### 2. Data process
-We also provide two classic public data sets, davis and kiba, as the baseline data set, and three sample proposal methods to reduce data redundancy, namely random deletion, distance-based method and MULGA, which you can use with the following command.
+We also provide two classic public data sets, davis and kiba, as the baseline data set, and three sample proposal methods to reduce data redundancy, namely **random deletion**, **distance-based method** and **MULGA**, which you can use with the following command.
 
  ```
  python data_generation.py --dataset ./dataset/DAVIS --method random
