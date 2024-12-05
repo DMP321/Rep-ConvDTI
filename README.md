@@ -37,7 +37,7 @@ First go to the folder.
 ###	1. Training
  We provide a complete model and a convenient model training method, you can use the command to quickly start training the model：
  
- `python train.py --train_dataset your_datapath`  
+ ``python train.py --train_dataset your_datapath``  
  
  -----Note that the training data should be in **.csv** format and use **["protein_id", "drug_id", "AAS", "SMILE", "Label"]** as columns.
  We also provide a variety of training methods, you can use the **-h** command to learn more.
