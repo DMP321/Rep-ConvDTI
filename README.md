@@ -1,4 +1,4 @@
-# Rep_ConvDTI
+# Rep-ConvDTI
 
 The drug-protein interaction prediction model, We were inspired by this [work](http://arxiv.org/abs/2311.15599).
 
