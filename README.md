@@ -60,7 +60,7 @@ We also provide two classic public data sets, davis and kiba, as the baseline da
  The distance-based method uses a [pre-trained model](https://github.com/IBM/molformer) to measure compound data.
 The MULGA referred to this [article](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad524/7248910) .
 ### 3.Predicting
-We provide a benchmark model that does not perform well in a single training set, but has good generalization.You can use it quickly with the following command.
+We provide a benchmark model that does not perform well in a single training set, but has good generalization and a smaller number of parameters. You can use it quickly with the following command.
 
  ```
  python predict.py --predict_target ./your/target.fasta --predict_ligands ./your/ligands.sdf --save_path ./save/path/
