@@ -30,12 +30,14 @@ tqdm——4.66.5
 xgboost——2.1.3
 
 ## Usage
-First go to the folder.
+First go to the folder and pip requirement.txt
 
  ```
  cd ./Rep_ConvDTI/
 ```
- 
+```
+ pip install -r requirements.txt
+```
 ###	1. Training
  We provide a complete model and a convenient model training method, you can use the command to quickly start training the model：
  
